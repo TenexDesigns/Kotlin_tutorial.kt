@@ -1,3 +1,5 @@
+MUTABLE
+
 1.Collection  Types	                                                   Methods of Mutable Collection   
 
      ----------------------------------------------------------------/Mutable Lists
@@ -17,7 +19,8 @@ Map                                                                 	HashMap
                                                                      
 Set                                      	                             hashSetOf()
                                                                        mutableSetOf()                                                                                              Collection Types                               	Methods of Immutable Collection                                                         
-                                     
+ 
+IMMUTABLE                                                                       
 
 2.Collection  Types	                                                   Methods of IMMutable Collection     
                                             
